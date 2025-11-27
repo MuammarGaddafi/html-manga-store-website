@@ -1,7 +1,7 @@
 # it may seems simple project, but it was very helpful and effective for a beginner who's trying to dive deeper into the world of html and web dev
 
 it is a manga strore website made of three (main page (about and menu),
-shop hours page and contact us page)pages in order to get more into the world of html and web dev
+shop hours page and contact us page)pages in order to immerse myself in the world of html and web dev
 
 
 
