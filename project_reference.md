@@ -29,7 +29,8 @@ contact us page :
 # website responsivity : 
 
 
-<img width="746" height="1010" alt="image" src="https://github.com/user-attachments/assets/066be48a-98e8-4e48-b020-af115e07edbc" />
+<img width="631" height="969" alt="image" src="https://github.com/user-attachments/assets/d6725183-3232-4368-b531-3ccca67bb8b1" />
+
 
 
 <img width="609" height="947" alt="image" src="https://github.com/user-attachments/assets/15a5b3fe-0853-4f94-b86b-27c526ba1fc9" />
